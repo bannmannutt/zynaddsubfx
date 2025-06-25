@@ -215,7 +215,6 @@ version-revision="7" ZynAddSubFX-author="Nasca Octavian Paul">
 <par_bool name="filter_bypass" value="no" />
 <par_bool name="filter_fcctl_bypass" value="no" />
 <par name="fm_enabled" value="1" />
-<par_bool name="sync_enabled" value="no" />
 <OSCIL>
 <par name="harmonic_mag_type" value="0" />
 <par name="base_function" value="9" />
@@ -489,7 +488,6 @@ version-revision="7" ZynAddSubFX-author="Nasca Octavian Paul">
 <par_bool name="filter_bypass" value="no" />
 <par_bool name="filter_fcctl_bypass" value="no" />
 <par name="fm_enabled" value="0" />
-<par_bool name="sync_enabled" value="no" />
 <OSCIL>
 <par name="harmonic_mag_type" value="0" />
 <par name="base_function" value="0" />
@@ -582,7 +580,6 @@ version-revision="7" ZynAddSubFX-author="Nasca Octavian Paul">
 <par_bool name="filter_bypass" value="no" />
 <par_bool name="filter_fcctl_bypass" value="no" />
 <par name="fm_enabled" value="0" />
-<par_bool name="sync_enabled" value="no" />
 <OSCIL>
 <par name="harmonic_mag_type" value="0" />
 <par name="base_function" value="0" />
@@ -675,7 +672,6 @@ version-revision="7" ZynAddSubFX-author="Nasca Octavian Paul">
 <par_bool name="filter_bypass" value="no" />
 <par_bool name="filter_fcctl_bypass" value="no" />
 <par name="fm_enabled" value="0" />
-<par_bool name="sync_enabled" value="no" />
 <OSCIL>
 <par name="harmonic_mag_type" value="0" />
 <par name="base_function" value="0" />
