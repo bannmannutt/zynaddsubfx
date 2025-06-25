@@ -303,11 +303,6 @@ struct ADnoteVoiceParam {
     unsigned char   PFMAmpEnvelopeEnabled;
     EnvelopeParams *FMAmpEnvelope;
 
-    /* Voice is being synced by modulator
-       false = Hardsync disabled (default)
-       true =  Hardsync enabled */
-    bool PsyncEnabled;
-
     unsigned char *GlobalPDetuneType;
 
     const AbsTime *time;
